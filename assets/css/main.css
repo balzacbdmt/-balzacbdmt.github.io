@@ -2064,7 +2064,7 @@ input, select, textarea {
 		line-height: 1.5;
 	}
 
-	.actions>li>.fab {
+	.actions>li>.fab, .ul-contact>li>i {
 		width: auto;
 		height: auto;
 	}
@@ -2413,10 +2413,13 @@ input, select, textarea {
 
 /* Feature Icons */
 
-	ul.feature-icons, .ul-up, .ul-down {
+	ul.feature-icons, .ul-up, .ul-down, .ul-contact {
 		list-style: none;
 		padding-left: 0;
 	}
+		.ul-contact li {
+			margin: 1em;
+		}
 
 		.ul-down li {
 			transform: rotate(15deg);
