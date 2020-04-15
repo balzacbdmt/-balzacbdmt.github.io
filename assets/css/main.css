@@ -1,4 +1,3 @@
-@import url("fontawesome-all.min.css");
 @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&family=Mallanna&display=swap');
 /*
 	Read Only by HTML5 UP
@@ -152,7 +151,7 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1.75em;
+		font-size: 2em;
 		line-height: 1.5em;
 	}
 
@@ -1714,6 +1713,7 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: calc(100% - 4.5em);
 		width: 45em;
+		min-height: 100vh;
 	}
 
 		.container.xsmall {
@@ -2915,6 +2915,7 @@ input, select, textarea {
 		color: #c0c0c0;
 		overflow: hidden;
 		padding: 4em 0 2em 0;
+		text-align: center;
 	}
 
 		#footer .copyright {
