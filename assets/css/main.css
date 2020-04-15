@@ -2386,7 +2386,7 @@ input, select, textarea {
 				}
 
 					ul.actions:not(.fixed) li > * {
-						width: 100%;
+						/* width: 100%; */
 					}
 
 					ul.actions:not(.fixed) li:first-child {
@@ -2731,7 +2731,7 @@ input, select, textarea {
 
 		.features article .image {
 			display: inline-block;
-			padding: 2.5em;
+			/* padding: 2.5em; */
 			vertical-align: middle;
 			width: 48%;
 		}
