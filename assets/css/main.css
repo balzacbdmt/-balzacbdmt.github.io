@@ -2730,8 +2730,8 @@ input, select, textarea {
 		}
 
 		.features article .image {
+			padding: 2.5em;
 			display: inline-block;
-			/* padding: 2.5em; */
 			vertical-align: middle;
 			width: 48%;
 		}
