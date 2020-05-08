@@ -2074,6 +2074,12 @@ input, select, textarea {
 		transform: rotate(-30deg);
 	}
 
+	.flag_btn {
+		height: 1em;
+		margin-left: 1em;
+		margin-top: 0.2em;
+	}
+
 	.ul-up li i {
 		line-height: 1.5;
 		font-size: 50px;
