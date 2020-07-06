@@ -1814,6 +1814,7 @@ input, select, textarea {
 
 		article>img {
 			grid-area: image;
+			padding: 1em 0 !important;
 		}
 
 		.tags {
