@@ -1,0 +1,73 @@
+[
+{
+"id": 25,
+"name": "Humour noir",
+"filename": "1600813550200.png",
+"description": "ddddddddddddddddddddd",
+"text": "ddddddddddddd",
+"keywords": [
+{
+"name": "manger"
+},
+{
+"name": "boire"
+},
+{
+"name": "courir"
+},
+{
+"name": "cool"
+}
+],
+"category": null,
+"owner": null,
+"sensitive": true,
+"validated": false,
+"validation_date": "2020-09-29T00:00:00.000Z",
+"validation_owner": null,
+"download_counter": 0,
+"createdAt": "2020-09-22T22:26:10.633Z",
+"updatedAt": "2020-09-22T22:26:10.633Z"
+},
+{
+"id": 26,
+"name": "Humour noir",
+"filename": "1600814040671.png",
+"description": "fffff",
+"text": "ddddddddddddd",
+"keywords": [
+{
+"name": "manger"
+},
+{
+"name": "boire"
+}
+],
+"category": null,
+"owner": "Balzac",
+"sensitive": true,
+"validated": false,
+"validation_date": null,
+"validation_owner": "Julien",
+"download_counter": 0,
+"createdAt": "2020-09-22T22:34:21.107Z",
+"updatedAt": "2020-09-22T22:34:21.107Z"
+},
+{
+"id": 27,
+"name": "Chuck Norris",
+"filename": "1612814042315.png",
+"description": "Ceci n'est pas chuck norris",
+"text": "catamarans",
+"keywords": [],
+"category": null,
+"owner": null,
+"sensitive": false,
+"validated": false,
+"validation_date": null,
+"validation_owner": null,
+"download_counter": 0,
+"createdAt": "2021-02-08T19:54:20.370Z",
+"updatedAt": "2021-02-08T19:54:20.370Z"
+}
+]
